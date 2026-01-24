@@ -13,7 +13,7 @@ export DESKTOP=/usr/share/applications/fabother-world.desktop
 export DEPLOY_OPENGL=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/fabother-world
+quick-sharun /usr/share/fabother-world/fabother-world
 
 # Additional changes can be done in between here
 
