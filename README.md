@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Fabother-World-AppImage)](https://github.com/pkgforge-dev/Fabother-World-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://aur.archlinux.org/cgit/aur.git/tree/fabother-world.png?raw" width="128" />
+  <img src="https://aur.archlinux.org/cgit/aur.git/plain/fabother-world.png" width="128" />
 </p>
 
 
