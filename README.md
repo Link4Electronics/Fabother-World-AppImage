@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Fabother-World-AppImage)](https://github.com/pkgforge-dev/Fabother-World-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/pkgforge-dev/Fabother-World-AppImage/blob/main/fabother-world.png" width="128" />
 </p>
 
 
